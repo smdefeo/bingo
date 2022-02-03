@@ -3,7 +3,7 @@ devtools::install_github("jennybc/bingo")
 library(bingo)
 
 #Theme: Emo bands you thought you would grow out of but never did
-#Categories by Shelby Defeo
+#Author: Shelby Defeo
 c('Bright Eyes',
   'Mom Jeans',
   'Blink 182',
